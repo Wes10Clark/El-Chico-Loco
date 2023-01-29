@@ -6,7 +6,7 @@ import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 
 const NavBar = () => {
   return (
-    <Navbar bg="dark" expand="lg">
+    <Navbar navbar bg="dark" expand="lg">
       <Container>
         <Navbar.Brand className="text-white" to="/Home">
           <span className="text-danger">El</span>{" "}
